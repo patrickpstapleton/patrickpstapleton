@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrickpstapleton
 - 👀 I’m interested in ... Big Data, Web Dev
-- 🌱 I’m currently learning ... doing some review on existing skills!
+- 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... open source projects rtmi
 - 📫 How to reach me ... send me an email :)
 
