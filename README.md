@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrickpstapleton
-- 👀 I’m interested in ... Big Data, Web Dev
-- 🌱 I’m currently learning ... javascript, reviewing Java
+- 👀 I’m interested in ... Cross-platform apps, Small apps, Big Data
+- 🌱 I’m currently learning ... Flutter
 - 💞️ I’m looking to collaborate on ... open source projects rtmi
 - 📫 How to reach me ... send me an email :)
 
